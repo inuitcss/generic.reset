@@ -7,3 +7,7 @@ some sensible defaults for some others.
 Install using Bower:
 
     $ bower install --save inuit-reset
+
+Install using npm:
+
+    $ npm install --save inuit-reset
