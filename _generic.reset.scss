@@ -35,6 +35,18 @@ dfn[title] {
 
 
 /**
+ * Indicate that certain elements are interactive.
+ */
+[role="button"],
+label {
+    cursor: pointer;
+}
+
+
+
+
+
+/**
  * Remove underlines from potentially troublesome elements.
  */
 u,
